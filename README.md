@@ -1,0 +1,1 @@
+# clothes_color_segmentation
